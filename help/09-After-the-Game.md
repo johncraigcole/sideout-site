@@ -19,11 +19,11 @@ Games are also in the Files app: **On My iPhone ▸ SideoutCam ▸ Games**. If *
 
 ## Uploading
 
-Uploads only happen when you tap them. Set up the team's Drive folder and YouTube playlist first ([My Teams and Accounts](02-My-Teams-and-Accounts.md)).
+Uploads only happen when you tap them. Choose the team's YouTube playlist first; its Drive folder is made for you on the first upload if it doesn't have one yet ([My Teams and Accounts](02-My-Teams-and-Accounts.md#the-teams-drive-folder)).
 
 ### Google Drive
 
-Tap **Upload to Google Drive**. Each game gets its own folder inside the team's Drive folder:
+Tap **Upload to Google Drive**. Each game gets its own folder inside the team's Drive folder ("SideoutCam · your team", which you can move or rename in Drive):
 
 ```
 Your folder ▸ 20261004 Westview vs. Eastside ▸ sets, highlight reel, Game Summary
