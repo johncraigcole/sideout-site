@@ -25,6 +25,7 @@ You can use SideoutCam on its own, but the two together are the way it's meant t
 9. [After the Game](09-After-the-Game.md): Games, playback, uploads, player reels, tournaments and external drives
 10. [Sponsors](10-Sponsors.md)
 11. [Troubleshooting](11-Troubleshooting.md)
+12. [Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md): heat, charging, streaming and 30 vs. 60 fps
 
 ## A typical game
 

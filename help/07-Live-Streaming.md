@@ -7,7 +7,7 @@ title: "Live Streaming"
 
 SideoutCam can stream the game live, with the scoreboard and sponsors, to **YouTube**, **Facebook**, or any **RTMP / RTMPS** service (Twitch, Restream, ...). Streaming is separate from recording: you can stream, record, or both.
 
-The stream uses the camera phone's **cellular** connection. You need a good signal: about 3.5 Mbps upload for 720p, or 6 Mbps for 1080p. The quality adjusts automatically on a weak connection. Choose the quality in Home ▸ **Live Streaming ▸ Quality**.
+The stream uses the camera phone's **cellular** connection. You need a good signal: about 3.5 Mbps upload for 720p, or 6 Mbps for 1080p. The quality adjusts automatically on a weak connection. Choose the quality in Home ▸ **Live Streaming ▸ Quality**. Streaming makes the phone work hard: over a long game, a Wi-Fi network or another phone's Personal Hotspot keeps the camera phone cooler than its own cellular ([Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md)).
 
 ## Setting up
 
@@ -51,5 +51,5 @@ Tap **Go Live** on the camera screen. If the team has more than one destination 
 - **Connection lost:** Sideout keeps trying to reconnect every 10 seconds, and both phones show **Reconnecting — signal lost**. On YouTube the broadcast stays open, so viewers keep the **same link** and the stream picks up where it left off when the signal returns. Tap **End Stream** to stop trying.
 - If SideoutCam has to restart mid-game, **Go Live** again for the same game continues the same YouTube broadcast and link.
 - **YouTube's view of the stream:** while you're live on YouTube (signed in through Accounts), the Live row on both phones shows how YouTube rates the stream and how many are watching, e.g. "YouTube: Good · 23 watching", checked every 30 seconds (the same rating as Stream health in YouTube Studio, so you don't need Studio open). It turns orange or red with YouTube's reason ("YouTube says: Video bitrate is low") when YouTube rates it OK or Bad. If it says Good while a viewer sees a spinner, the stream is fine and the hold-up is on their connection: they can pick a lower quality (gear icon) or rewind a few seconds. Not shown for Facebook or stream-key streams.
-- **Phone too hot:** pause the stream with a message for viewers, then resume on the same link once it cools. See [Troubleshooting](11-Troubleshooting.md#the-phone-is-getting-hot).
+- **Phone too hot:** pause the stream with a message for viewers, then resume on the same link once it cools. See [Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md).
 - If the stream can't start at all (for example, a stream key was rejected), Sideout tells you why instead of retrying.

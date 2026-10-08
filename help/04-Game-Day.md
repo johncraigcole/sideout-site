@@ -21,7 +21,7 @@ On either phone, tap **Start Game**:
   - **Play all sets**: high school rules. Every set is played even after a team has won the match.
   - **Resume recording after a timeout**: 30 or 60 seconds (see [Recording, Pausing and Timeouts](05-Recording-Pausing-Timeouts.md)).
 - **Tournament** (optional): files this game under the tournament's folder on Google Drive. It stays set for the next games until you end it.
-- **Video**: quality (720p, 1080p or 4K, at 30 or 60 fps), bitrate, and stabilization. On the camera phone you can also choose **Also save to Photos**.
+- **Video**: quality (720p, 1080p or 4K, at 30 or 60 fps), bitrate, and stabilization. On the camera phone you can also choose **Also save to Photos**. 60 fps gives smoother slow motion; 30 fps keeps the phone cooler, which helps when you're also streaming ([Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md)).
 
 Tap **Start Game**. The camera screen opens on the camera phone, and SideoutTally switches to scoring.
 

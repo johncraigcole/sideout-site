@@ -44,24 +44,9 @@ The camera phone shut down or SideoutCam closed while recording. Sideout saved e
 
 ## The phone is getting hot
 
-Long recordings, 4K or 60 fps, streaming, bright sun and a charging cable all add heat. Keep the phone out of direct sun, use 1080p, and avoid charging while it's in a case. If the phone gets too hot, iOS may dim the screen or stop the camera.
+Fast charging, streaming over cellular, 60 fps or 4K, a bright screen, sun and a thick case all add heat. If the phone gets too hot, iOS may slow it down or stop the camera (everything recorded until then is kept).
 
-While the camera screen is open, Sideout watches the camera phone's heat and warns on **both phones**:
-
-- **Phone is hot** (orange): streaming and fast charging add the most heat. Shade the phone and take off a thick case.
-- **Phone is very hot** (red): iOS may stop the camera soon. If the camera does stop, everything recorded until then is kept.
-
-When the phone is hot and you're live, the warning has **Pause Stream to Cool Down…** (on either phone). Streaming is the biggest extra load, so pausing it is the quickest way to cool the phone, and the recording keeps going. You can add a message for viewers (up to 60 characters, e.g. "Back for Set 3"). For 30 seconds viewers then see **Stream paused: the camera is too hot**, "Please keep this window open. We'll be back once the phone cools down." and your message; then the stream stops sending. On YouTube the broadcast stays open, so viewers who keep the window open see it come back on the same link when you tap **Resume Stream** (either phone). On Facebook or with a stream key, the live video may end while paused, so the card tells viewers to look for a new live video. **End Stream** ends it for good.
-
-On a small iPhone, the warning can push Pause and Stop below the bottom of SideoutTally's screen: swipe up to reach them.
-
-To check the camera phone at any time from the remote: **⋯ ▸ Camera Phone Status** shows its heat, battery, Low Power Mode and recording space (as last reported; opening it doesn't ask the camera phone for anything).
-
-**Screen dimming:** while the remote is connected, the camera phone's screen goes black and its brightness drops right down 20 seconds after it was last touched (the screen is one of the phone's biggest heat sources, and the remote has the controls and the preview). Recording, streaming and scoring carry on; it shows a faint "Screen dimmed to keep the phone cool" note with REC / LIVE, and a tap wakes it. It wakes by itself if the remote disconnects. Turn it off in Game Setup ▸ **Dim screen while the remote is connected**.
-
-Other ways to keep it cooler: take the case off, use a slower charger or a battery pack rather than a fast charger, keep the phone out of sun, record at 30 fps instead of 60, and turn Stabilization off on a tripod.
-
-Each set in **Games** notes it if the phone got hot while recording ("Phone got hot at 34:10"), so after a tournament you can see when and what was running.
+Quick fixes: start at 100% and charge with a slow charger (or not at all), stream over Wi-Fi or another phone's hotspot, keep the remote connected so the screen dims, and when you're live and it's hot, use **Pause Stream to Cool Down…** in the warning. See [Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md) for the full picture, including why a 720p stream still leaves the phone working hard, and 30 vs. 60 fps.
 
 ## Running out of space
 
