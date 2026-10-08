@@ -1,0 +1,12 @@
+# GitHub Pages (Jekyll) settings for sideoutcam.com.
+# The home, privacy and terms pages are plain HTML; the Help pages in help/ are
+# Markdown copied from the app's user guides by Website/publish.sh.
+title: SideoutCam
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+relative_links:
+  enabled: true
+exclude:
+  - README.md

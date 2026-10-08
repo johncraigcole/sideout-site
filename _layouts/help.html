@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} · SideoutCam Help</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header>
+  <a class="brand" href="/">SideoutCam</a>
+  <nav><a href="/">Home</a><a href="/help/" aria-current="page">Help</a><a href="/privacy.html">Privacy</a><a href="/terms.html">Terms</a></nav>
+</header>
+<main class="help">
+{% unless page.url == "/help/" %}<p class="crumb"><a href="/help/">← All help topics</a></p>{% endunless %}
+{{ content }}
+</main>
+<footer>SideoutCam · <a href="/help/">Help</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · <a href="mailto:sideoutcamapp@gmail.com">sideoutcamapp@gmail.com</a></footer>
+</body>
+</html>
