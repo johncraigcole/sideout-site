@@ -34,7 +34,18 @@ An optional **YouTube backup key** (YouTube Studio ▸ Create ▸ Go live ▸ St
 2. Copy the key. In Sideout, go to **Accounts ▸ Stream Keys ▸ Add Stream Key**, choose **Facebook**, and paste it.
 3. In **My Teams ▸ the team ▸ Live Streaming** (or Home ▸ Live Streaming), pick the key for the team.
 
-A persistent key stays the same every time, so you only do this once. Facebook may show a preview first: tap **Go Live** in Facebook to make it public.
+A persistent key stays the same every time, so you only set it up once.
+
+**On game day, Facebook needs one more tap.** Going live from SideoutCam sends the video to Facebook, but Facebook keeps it as a private preview until you publish it:
+
+1. Open **Live Producer** (facebook.com/live/producer, on a computer or in a phone's web browser), choose the same place to post (profile, Page or Group), with **Streaming software** selected.
+2. Tap **Go Live** in SideoutCam (or on SideoutTally). After a few seconds, the camera's picture appears as a preview in Live Producer.
+3. Click **Go Live** in Live Producer (Facebook may call it **Go Live Now**). Only now can viewers see it.
+
+So someone needs Live Producer open at the start of the game. Facebook changes its screens from time to time, so the button may move.
+
+- **One live video at a time per key:** a second stream on the same persistent key at the same time can be refused or dropped.
+- **Keep the key private:** anyone who has it can stream to your post. If it gets out, make a new key in Live Producer and replace it in **Accounts ▸ Stream Keys**.
 
 ### Other services (Custom RTMP)
 
