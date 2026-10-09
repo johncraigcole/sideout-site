@@ -7,7 +7,13 @@ title: "Live Streaming"
 
 SideoutCam can stream the game live, with the scoreboard and sponsors, to **YouTube**, **Facebook**, or any **RTMP / RTMPS** service (Twitch, Restream, ...). Streaming is separate from recording: you can stream, record, or both.
 
-The stream uses the camera phone's **cellular** connection. You need a good signal: about 3.5 Mbps upload for 720p, or 6 Mbps for 1080p. The quality adjusts automatically on a weak connection. Choose the quality in Home ▸ **Live Streaming ▸ Quality**. Streaming makes the phone work hard: over a long game, a Wi-Fi network or another phone's Personal Hotspot keeps the camera phone cooler than its own cellular ([Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md)).
+The stream goes out over whatever internet connection the camera phone has, like any other app:
+
+- **Joined to a Wi-Fi network** (the school's Wi-Fi, or a **Personal Hotspot** from another phone): the stream uses that Wi-Fi.
+- **Not joined to any network:** the stream uses the camera phone's **cellular** connection. Keep Wi-Fi switched on anyway: the two phones need it to talk to each other, even without joining a network.
+- **Joined to a Wi-Fi network that asks you to sign in** (a sign-in or "accept terms" page) or has no internet: the stream may fail to start or keep dropping. Sign in first in Safari, or forget that network and use cellular or a hotspot.
+
+You need a good connection: about 3.5 Mbps upload for 720p, or 6 Mbps for 1080p. The quality adjusts automatically on a weak connection. Choose the quality in Home ▸ **Live Streaming ▸ Quality**. Streaming makes the phone work hard: over a long game, a Wi-Fi network or another phone's Personal Hotspot keeps the camera phone cooler than its own cellular ([Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md)).
 
 ## Setting up
 
@@ -38,7 +44,7 @@ Add a **Custom RTMP** stream key with the service's **server address** (e.g. `rt
 
 Tap **Go Live** on the camera screen. If the team has more than one destination set up, **Go Live…** lets you pick YouTube, Facebook or Custom.
 
-**Go Live** in SideoutTally uses the destination you last went live with (or the first one set up). The button shows which.
+In SideoutTally it works the same way: with one destination set up, **Go Live** shows which one and goes live there. With more than one, **Go Live…** opens a list (YouTube, Facebook, Custom RTMP) with a tick on the one you used last; tap where to go live. (An older SideoutCam on the camera phone always uses the destination you last went live with.)
 
 - **Between sets**, the stream stays up and shows a card: "Starting soon", "Waiting for Set 2 to start", or "Final". These cards are only on the stream, never in your recordings.
 - **When you pause**, viewers see "Stream paused momentarily" with the game and the reason (e.g. "Westview timeout") or your message.
