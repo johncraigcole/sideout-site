@@ -5,7 +5,7 @@ title: "Sponsors"
 
 # Sponsors
 
-Show up to five sponsors in the bottom-right corner of game recordings and live streams. They take turns, with a short fade between them.
+Show up to ten sponsors in the bottom-right corner of game recordings and live streams. They take turns, with a short fade between them.
 
 Each of My Teams has its own sponsors: **Filming for ▸ Edit My Teams… ▸ the team ▸ Sponsors**.
 
