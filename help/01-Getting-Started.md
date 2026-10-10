@@ -23,7 +23,7 @@ Open **SideoutCam**. When asked, allow:
 
 Then set up your team:
 
-1. Tap the **Filming for** card at the top of the home screen ▸ **Edit My Teams…**.
+1. On the home screen, tap **My Teams** (under More).
 2. Your first team is already there. Tap it, give it a name (e.g. "Westview Jr. Boys") and pick its **Scoreboard team**: the name, colors and logo shown on the scoreboard. If it isn't in the list yet, add it first under **Teams** on the home screen (see [Teams and Opponents](03-Teams-and-Opponents.md)).
 
 That's enough to record. Uploads and streaming can be set up later ([My Teams and Accounts](02-My-Teams-and-Accounts.md)).

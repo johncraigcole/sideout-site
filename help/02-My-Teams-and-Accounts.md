@@ -10,7 +10,7 @@ title: "My Teams and Accounts"
 **My Teams** are the teams you film for, for example a high school team and a club team. Each one keeps its own:
 
 - **Scoreboard team**: its name, colors and logo on the scoreboard (always listed first, e.g. "Westview vs. Eastside").
-- **Roster**: its players (number, first name and an optional **Position**: Left Side, Right Side, Setter, Middle or Libero), for lineups, substitutions and highlight tags. Players listed as Libero come first when you pick a set's liberos (see Game Day ▸ Lineup and substitutions).
+- **Roster**: tap it to open the team's players on their own screen (number, first name and an optional **Position**: Left Side, Right Side, Setter, Middle or Libero), for lineups, substitutions and highlight tags. Players listed as Libero come first when you pick a set's liberos (see Game Day ▸ Lineup and substitutions).
 - **Google accounts**: which Drive and YouTube accounts it uploads and streams with.
 - **Drive folder and YouTube playlist**: where its games go. See [The team's Drive folder](#the-teams-drive-folder) below.
 - **Stream keys**: which Facebook and Custom RTMP keys it goes live with.
@@ -19,11 +19,11 @@ title: "My Teams and Accounts"
 
 ### Switching teams
 
-The **Filming for** card at the top of SideoutCam's home screen shows the team you're filming for. Tap it to switch teams, or choose **Edit My Teams…**. You can also switch in **Start Game** (on either phone). Switching brings that team's sponsors, stream keys, YouTube account and tournament with it.
+You choose the team you're filming for in **Start Game** (on either phone). On SideoutCam's home screen, **My Teams** (under More) shows it as "Filming for …", and with more than one team a small line under the buttons names it too. Switching brings that team's sponsors, stream keys, YouTube account and tournament with it.
 
 ### Adding, editing and deleting
 
-- **Add:** Filming for ▸ Edit My Teams… ▸ **+**. Give it a name and a scoreboard team.
+- **Add:** My Teams ▸ **+**. Give it a name and a scoreboard team.
 - **Edit:** tap a team to change any of its settings.
 - **Delete:** swipe left on a team, or tap the **trash icon** in its screen. Its games stay on the phone and upload with your first team's settings. Your first team, and your only team, can't be deleted.
 

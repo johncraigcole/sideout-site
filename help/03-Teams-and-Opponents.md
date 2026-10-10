@@ -16,7 +16,7 @@ Home ▸ **Teams** ▸ **+**, or tap a team to edit it. A team has:
 - **Full name** (optional): used in YouTube descriptions, e.g. "Saint Thomas Aquinas Catholic Secondary School".
 - **Logo** (optional): picked from Photos and cropped to a square. A PNG with a transparent background looks best. On the camera phone, **Adjust Logo** reopens the crop screen (from the original photo if you picked it in this edit); **Cancel** there keeps the logo as it was. Nothing changes until you tap **Save**.
 - **Color** (optional): fills the team's row on the scoreboard and its score button in SideoutTally.
-- **Roster** (optional, opponents): numbers and first names, for tagging an opponent's highlight by player. Your own players are on your team in **My Teams**, so a team that's one of your scoreboard teams shows where to find them instead.
+- **Roster** (optional, opponents): tap it to open the players on their own screen. Numbers and first names, for tagging an opponent's highlight by player. Your own players are on your team in **My Teams**, so a team that's one of your scoreboard teams shows where to find them instead.
 
 You can also add and edit teams from SideoutTally's Game Setup (**Teams ▸ Add Team** or **Edit Teams**). They're saved on the camera phone. SideoutTally can't delete teams.
 
