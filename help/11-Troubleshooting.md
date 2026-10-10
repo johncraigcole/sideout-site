@@ -52,4 +52,4 @@ Quick fixes: start at 100% and charge with a slow charger (or not at all), strea
 
 Sideout warns on both phones when there's about an hour of recording space left (orange) and when there's 20 minutes or less (red), at the quality you're recording in. It also warns when the camera phone's battery is at 20% or less and not charging, and when Low Power Mode is on (it can slow the phone).
 
-Upload and delete finished games, move them to an external drive, or turn off **Also save to Photos** (it stores every video twice). See [After the Game](09-After-the-Game.md).
+Upload and delete finished games, or move them to an external drive. See [After the Game](09-After-the-Game.md).

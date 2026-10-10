@@ -15,7 +15,7 @@ Home ▸ **Games** lists every game and practice on the camera phone. Open one t
 - **Share**: send files to another app, AirDrop, and so on.
 - **Delete Game from Phone**: frees the space. Copies already uploaded or on an external drive aren't affected.
 
-Games are also in the Files app: **On My iPhone ▸ SideoutCam ▸ Games**. If **Also save to Photos** is on, each set and highlight is copied to Photos too (this uses the space twice).
+Games are also in the Files app: **On My iPhone ▸ SideoutCam ▸ Games**. To put a video in Photos, share it and choose **Save Video**.
 
 ## Uploading
 
