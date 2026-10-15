@@ -12,7 +12,7 @@ title: "Game Day"
 
 ## Starting a game
 
-On either phone, tap **Start Game**:
+On SideoutTally, or in **Games** on the camera phone, tap **Start Game**:
 
 - **Filming for**: which of your teams this game is for.
 - **Opponent**: a saved team, or **Type a name…**.

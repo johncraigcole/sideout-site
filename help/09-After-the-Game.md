@@ -86,7 +86,7 @@ Player reels aren't uploaded to Google Drive or YouTube (share them instead), an
 
 ## Tournaments
 
-Set a tournament in Start Game, and it stays set for every game until you end it, so a multi-day tournament files everything together. When it's over, tap **End Tournament** on the home screen, next to the tournament's name under the buttons. It's then no longer suggested. Games already in it keep it.
+Set a tournament in Start Game, and it stays set for every game until you end it, so a multi-day tournament files everything together. When it's over, tap **End Tournament** in **Games** on the camera phone, next to the tournament's name under the start buttons. It's then no longer suggested. Games already in it keep it.
 
 ## External drive
 

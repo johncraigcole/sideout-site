@@ -9,7 +9,7 @@ title: "Practice Recordings and Scrimmages"
 
 Use **Practice** for anything that isn't a game or a scrimmage: drills, tryouts, a skills video. (On SideoutTally the button is **Practice Recording**.)
 
-1. Tap **Practice** on the camera phone, or **Practice Recording** on SideoutTally.
+1. Tap **Practice** in **Games** on the camera phone, or **Practice Recording** on SideoutTally.
 2. If you have more than one of My Teams, pick which team it's for (it uploads to that team's Drive folder and playlist).
 3. Name it, e.g. "Serving drills", and tap **Start Recording**. Recording starts as soon as the camera is ready.
 
@@ -26,7 +26,7 @@ Stop with **Stop**, and finish with **⋯ ▸ End Practice** (SideoutTally) or t
 
 A scrimmage splits your team's roster into two sides (Team A vs. Team B) and scores it like a game, with the scoreboard on the video.
 
-1. Tap **Scrimmage** on either phone. On the camera phone it's for the team you're filming for (shown in **My Teams**); on SideoutTally, pick the team if you have more than one.
+1. Tap **Scrimmage** on SideoutTally, or in **Games** on the camera phone. On the camera phone it's for the team you're filming for (shown in **My Teams**); on SideoutTally, pick the team if you have more than one.
 2. Pick the sides, one of two ways (the switch at the top; your choice is remembered):
    - **Fill one side:** everyone starts on Team B. Tap players to put them on Team A; everyone else plays for Team B. Tap a Team A player again to send them back.
    - **Captains pick:** everyone starts in a pool, and each tap gives the next player to the side whose pick it is (Team A, Team B, Team A…), as captains taking turns. Choose which side picks first; **Undo Pick** takes back a mis-tap; **Rest to Smaller Side** (or just tapping Start) puts whoever's left on the side with fewer players.

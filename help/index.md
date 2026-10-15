@@ -30,7 +30,7 @@ You can use SideoutCam on its own, but the two together are the way it's meant t
 ## A typical game
 
 1. Mount the camera phone, open SideoutCam, and open SideoutTally on your phone. They connect on their own once you've paired them.
-2. On either phone, tap **Start Game**, pick the opponent, and tap **Start Game** again. The camera screen opens.
+2. On SideoutTally (or in **Games** on the camera phone), tap **Start Game**, pick the opponent, and tap **Start Game** again. The camera screen opens.
 3. Tap **Start Recording** when the set begins. Tap a team's score for every point.
 4. Tap **★ Highlight** right after a great play.
 5. When the set ends, tap **Stop**, then **End Set**. Record the next set the same way.

@@ -19,7 +19,7 @@ title: "My Teams and Accounts"
 
 ### Switching teams
 
-You choose the team you're filming for in **Start Game** (on either phone). On SideoutCam's home screen, **My Teams** (under More) shows it as "Filming for …", and with more than one team a small line under the buttons names it too. Switching brings that team's sponsors, stream keys, YouTube account and tournament with it.
+You choose the team you're filming for in **Start Game** (on either phone). On SideoutCam's home screen, **My Teams** (under More) shows it as "Filming for …", and with more than one team a small line under the start buttons in **Games** names it too. Switching brings that team's sponsors, stream keys, YouTube account and tournament with it.
 
 ### Adding, editing and deleting
 
@@ -66,3 +66,13 @@ Tap a key to rename it, change its server, or paste a replacement. See [Live Str
 ### Privacy
 
 Sign-ins and stream keys are stored in the iPhone's Keychain. They're encrypted, never leave the phone, aren't backed up to iCloud, and don't transfer to a new phone. On a new phone, just sign in again.
+
+## Backup
+
+SideoutCam keeps a backup of your setup, so you don't have to rebuild it if you delete the app or move to a new phone. It holds your **teams** (with logos and opponents' rosters), **My Teams** (rosters and settings), the **stream key list** (names only) and every team's **sponsors**. Sign-ins and stream keys themselves are never in it.
+
+- **Automatic:** about 30 seconds after you change any of these, the backup is updated **on this iPhone** (Files ▸ On My iPhone ▸ SideoutCam ▸ Backup) and, if you're signed in to Google Drive, in a **SideoutCam Backup** folder in your My Drive (your first Drive account). It also catches up each time SideoutCam opens and right after you sign in to Google Drive, so you don't need to visit the Backup screen. It's only sent when something really changed. With **Upload over Wi-Fi only** on (Home ▸ Uploads), the Drive copy waits for Wi-Fi, and the Backup screen shows "Waiting for Wi-Fi".
+- **Back Up Now:** Home ▸ **Backup** ▸ **Back Up Now** does it straight away, even on cellular, and shows when the last backups were made.
+- **Restore:** Home ▸ **Backup** ▸ **Restore from Google Drive**, or **Restore from a File…** (e.g. a copy you saved to iCloud Drive or AirDropped). A restore replaces the teams, rosters and sponsors on the phone; a copy of what was there is kept first in the Backup folder. Afterwards, sign in again in **Accounts** if asked, and paste any stream keys the phone doesn't have.
+
+The copy on the iPhone is deleted with the app, so the Google Drive copy is the one that gets you back after reinstalling: sign in to Google Drive, open **Backup**, and tap **Restore from Google Drive**. A fresh install never overwrites the backup in Drive on its own; it tells you one is there.
