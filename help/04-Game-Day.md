@@ -54,8 +54,8 @@ The lineup is saved with the score on both phones, and comes back if you Resume.
 
 Stop any recording first, then choose **⋯ ▸ End Game** (SideoutTally) or the **✕** on the camera screen:
 
-- **Save Score & End** keeps the score so you can come back to it. Both phones then offer **Resume Westview vs. Eastside**.
-- **End & Start New Game** finishes it.
+- **Save Score & End (Resume Later)** keeps the score so you can come back to it. Both phones then offer **Resume Westview vs. Eastside**.
+- **End Game** finishes it.
 
 The score is also saved automatically after every point, so if the camera phone shuts down unexpectedly (a ball hits it, the battery dies), **Resume** brings the game back at the right set and score.
 

@@ -49,7 +49,7 @@ During a scrimmage:
 
 When you upload the scrimmage to Google Drive, its **Game Summary** lists the **Teams** (who was on each side, and who sat out), and notes **Sides changed** under any set where players had moved.
 
-Finish with **⋯ ▸ End Scrimmage** (SideoutTally) or the **✕** on the camera screen: **Save Score & End** keeps the score and sides to resume later; **End Scrimmage** finishes it. If the app closes unexpectedly, the scrimmage can be resumed from the home screen. (If you have a game saved to resume later, a scrimmage leaves it alone and isn't saved itself.)
+Finish with **⋯ ▸ End Scrimmage** (SideoutTally) or the **✕** on the camera screen: **Save Score & End (Resume Later)** keeps the score and sides to resume later; **End Scrimmage** finishes it. If the app closes unexpectedly, the scrimmage can be resumed from the home screen. (If you have a game saved to resume later, a scrimmage leaves it alone and isn't saved itself.)
 
 Scrimmages:
 
