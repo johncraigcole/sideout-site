@@ -9,6 +9,7 @@ title: "Game Day"
 
 1. Mount the camera phone **sideways**, with the whole court in view. Use the zoom slider on the camera screen. 0.5× (ultra-wide) fits a court from close up.
 2. Open SideoutCam, then open SideoutTally and connect (it reconnects on its own if you've paired before).
+3. To check the framing from the stands, tap the **camera** button at the top of SideoutTally. It shows what the camera phone sees, even before you start a game: SideoutCam turns its camera on just for this view (its home screen says "Camera on for the remote's camera view") and off again when you tap **Done**. Before a game it's the plain camera picture, at 1× zoom, with the quality and stabilization from Game Setup; the scoreboard and sponsors appear once the game starts. If SideoutCam hasn't been allowed to use the camera yet, SideoutTally says so: start a practice or game on the camera phone once and tap **Allow**.
 
 ## Starting a game
 
@@ -31,6 +32,7 @@ Tap **Start Game**. The camera screen opens on the camera phone, and SideoutTall
 - **Press and hold a score** to fix it with − and +.
 - **End Set** locks in the set score; it stays on the scoreboard as a previous-set column. Right after a set ends, the button becomes **Undo End Set** until the next point, in case you ended it by mistake.
 - The scoreboard in the video updates instantly.
+- **The camera button** (top row) opens the camera view: a small live picture from the camera phone, scoreboard included, for checking the framing during the game.
 - **⋯ (More)** has **Change Format** (e.g. pool play turned into best of 3; scores are kept), **End Game**, and **Disconnect**.
 - On a small iPhone (such as an iPhone 8 or SE), extra rows like a heat or battery warning, the live link or a timeout countdown can make the screen taller than the phone. Swipe up to reach the buttons below them; the top row (connection, camera view and ⋯) stays in place.
 

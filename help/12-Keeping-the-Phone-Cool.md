@@ -49,6 +49,7 @@ To decide for yourself, record a minute of warm-up at 1080p 60 fps, switch Game 
 - **Consider 1080p 30 fps** for games you stream (see above).
 - **Turn Stabilization off** in Game Setup ▸ Video when the phone is on a tripod: it adds work and the tripod doesn't need it.
 - **Keep the remote connected**, so the camera phone's screen can dim.
+- **Close SideoutTally's camera view when you're done framing the shot** before the game: the camera phone's camera runs while it's open. It turns off a few seconds after the view closes, and right away if the phones disconnect, a game starts or you leave SideoutCam.
 
 ## What Sideout does to help
 
