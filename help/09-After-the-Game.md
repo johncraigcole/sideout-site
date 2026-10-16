@@ -26,7 +26,7 @@ Uploads only happen when you tap them. Choose the team's YouTube playlist first;
 Tap **Upload to Google Drive**. Each game gets its own folder inside the team's Drive folder ("SideoutCam · your team", which you can move or rename in Drive):
 
 ```
-Your folder ▸ 20261004 Westview vs. Eastside ▸ sets, highlight reel, Game Summary
+Your folder ▸ 20261004 Westview vs. Eastside ▸ sets, highlight reel, Game Summary, SideoutCam Game.json
                                        ▸ Highlights ▸ clips
                                        ▸ Warm-Up    ▸ warm-up (if included)
 ```
@@ -62,15 +62,20 @@ A player reel is one player's highlights joined into a single video for them to 
 
 **Making one:**
 
+- Home ▸ More ▸ **Player Reels**. With more than one team, pick the **Team** first.
 - From a game: Games ▸ the game ▸ **Player Reel…** (shown when the game has highlights tagged with one of your players). The game is already chosen.
-- For a tournament or a season: Home ▸ My Teams ▸ the team ▸ **Player Reels**.
+- Or Home ▸ My Teams ▸ the team ▸ **Player Reels**.
 
 Then:
 
 1. **Player**: from the team's roster. Players tagged in older games who are no longer on the roster are listed too.
-2. **Highlights from**: **Game** (pick one), **Tournament** (pick one), or **Dates** (From and To, e.g. the season). Only games filmed for this team count, so a club team's and a school team's highlights don't mix. Tournaments and dates take games, not practices; open a practice in Games to make a reel of it.
+2. **Highlights from**: **Game** (pick one), **Tournament** (pick one), **Dates** (From and To, e.g. the season), or **Drive** (a game on Google Drive, even one you've deleted from the phone: tap **Find Games on Google Drive**, then pick the game). Only games filmed for this team count, so a club team's and a school team's highlights don't mix. Tournaments and dates take games, not practices; open a practice in Games to make a reel of it.
 3. **Plays** (optional): tick plays to keep only those, e.g. Kill and Ace. With none ticked, every play is in.
 4. Check the count under the button, then tap **Make [player]'s Reel**.
+
+**Clips from Google Drive:** a highlight that's no longer on the phone (deleted, or on an external drive that isn't plugged in) but was uploaded to Google Drive is downloaded for the reel, then removed again. The count under the button says how many. They're full-quality video (roughly 20–40 MB each), so with **Upload over Wi-Fi only** on (Home ▸ Uploads), downloads wait for Wi-Fi.
+
+**Games from Google Drive:** games uploaded since this version keep a small **SideoutCam Game.json** file in their Drive folder with every highlight's tag, so a reel from Drive is exactly like one from the phone. For games uploaded before that, the players are read from the clips' names (e.g. `…-Set-2-Parker-Kill.mov`), matched by first name, so two players with the same first name can't be told apart there.
 
 Only highlights **tagged with that player** are used: from the highlight tag sheet, or a stat's Highlight button in SideoutTally. Highlights where they were just on court aren't. Tags are matched by jersey number when both the tag and the roster have one (so two players named Parker are kept apart), otherwise by first name. A tag with only a first name that two players on the roster share goes in neither reel: give your players numbers to avoid that.
 
