@@ -76,6 +76,11 @@ Only highlights **tagged with that player** are used: from the highlight tag she
 
 The reel starts with a title card: the player big ("#7 Parker"), the team under it in smaller type ("Westview"), then "Provincials 2026" or "Sep 1 – Oct 7, 2026", then each highlight, oldest first, with a 3-second card before it: the play ("Parker Kill"), then the opponent, set, score and date ("vs. Eastside · Set 2 · 12–9 · Oct 4"). The cards use the team's color and logo.
 
+**Title cards** (above Make, remembered for next time):
+
+- **Opening card:** **Player, Team and Games** (the card described above), **My Own Text** (up to three lines you write: the first big, the second medium, the third small; each up to 40 characters, starting from the standard text), or **None** (the reel starts straight with the first play).
+- **Card before each play:** on by default. Turn it off and the plays run back to back with no card between them.
+
 Making a reel re-encodes the video, so it takes a while: keep SideoutCam open (the screen stays on). **Cancel** stops it and saves nothing. It can't be made while the camera screen is open, and opening the camera screen (from either phone) stops it.
 
 **External drive:** highlights moved to an external drive are used while the drive is plugged in. If it isn't, they're left out, and the screen says how many before you start (and which ones after). If all of them are on the drive, plug it in first.
