@@ -74,7 +74,7 @@ Then:
 
 Only highlights **tagged with that player** are used: from the highlight tag sheet, or a stat's Highlight button in SideoutTally. Highlights where they were just on court aren't. Tags are matched by jersey number when both the tag and the roster have one (so two players named Parker are kept apart), otherwise by first name. A tag with only a first name that two players on the roster share goes in neither reel: give your players numbers to avoid that.
 
-The reel starts with a title card (e.g. "#7 Parker · Westview", then "Provincials 2026" or "Sep 1 – Oct 7, 2026"), then each highlight, oldest first, with a 3-second card before it: the play ("Parker Kill"), then the opponent, set, score and date ("vs. Eastside · Set 2 · 12–9 · Oct 4"). The cards use the team's color and logo.
+The reel starts with a title card: the player big ("#7 Parker"), the team under it in smaller type ("Westview"), then "Provincials 2026" or "Sep 1 – Oct 7, 2026", then each highlight, oldest first, with a 3-second card before it: the play ("Parker Kill"), then the opponent, set, score and date ("vs. Eastside · Set 2 · 12–9 · Oct 4"). The cards use the team's color and logo.
 
 Making a reel re-encodes the video, so it takes a while: keep SideoutCam open (the screen stays on). **Cancel** stops it and saves nothing. It can't be made while the camera screen is open, and opening the camera screen (from either phone) stops it.
 
