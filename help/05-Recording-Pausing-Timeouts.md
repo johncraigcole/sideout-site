@@ -10,6 +10,7 @@ title: "Recording, Pausing and Timeouts"
 - **Start Recording** (SideoutTally) or **Record** (camera screen) starts recording the set in progress.
 - **Stop** ends the recording and saves it. Highlights are cut from it right after.
 - Record each set separately: Stop, **End Set**, then Start Recording for the next set.
+- **Forgot to start?** If you score a point while the recording is stopped, the phone you scored on asks **Start recording Set 3?** Tap **Start Recording**, or **Not Now** to keep scoring that set without video (it won't ask again until the next set). The point counts either way.
 
 Each set is saved as its own video, named like `20261004-Westview-Eastside-Set-1.mov`. If you record a set in two parts, the second is `…-Set-1-Part-2.mov`.
 
