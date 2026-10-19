@@ -9,7 +9,9 @@ title: "Troubleshooting"
 
 - **Turn Wi-Fi on on both phones** (Control Center). They don't need to join a network, but with Wi-Fi off they use Bluetooth only, which is very slow and drops easily.
 - **Open SideoutCam first**, on its home screen or camera screen. The camera phone must be awake and SideoutCam open. A locked phone can't be found.
-- **Tap Reconnect** in SideoutTally. It only searches when asked, to save battery.
+- **Tap Reconnect** in SideoutTally. If the connection drops after it's been working, SideoutTally looks for the camera again once by itself (**Reconnecting…**). If that doesn't find it, or the connection keeps dropping, it waits for you to tap **Reconnect**.
+- **"Camera not responding…"** in SideoutTally: the phones still look connected, but nothing has come from the camera for a few seconds, so your taps may not be getting through. If it lasts more than about 12 seconds, SideoutTally ends the connection and reconnects by itself.
+- **Close the camera view when you're not using it.** The live picture is the biggest thing sent between the phones, and in a busy gym it can crowd out score taps.
 - **"Still sending… the connection is slow"** when you start from SideoutTally: the request is on its way. Right after the phones connect, iOS can take several seconds to settle the link between them; the camera opens as soon as the request arrives. Wi-Fi switched on but **not joined to a network** usually gives the quickest link. A Personal Hotspot running on the remote phone can slow it down.
 - **Stay within range.** About 20–30 m with a clear line of sight works well; walls and crowds shorten it.
 - **"Code changed"?** The pairing code is on SideoutCam's home screen. Tap **Search for Camera** and enter it again.

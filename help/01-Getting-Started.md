@@ -36,7 +36,7 @@ That's enough to record. Uploads and streaming can be set up later ([My Teams an
 
 From then on, SideoutTally remembers the camera. Tap **Reconnect to SideoutCam** and it connects without the code.
 
-> Tip: SideoutTally only searches when you tap Search or Reconnect, to save battery. If the phones lose each other (you walked out of range, or locked the camera phone), tap **Reconnect**.
+> Tip: SideoutTally only searches when you tap Search or Reconnect, to save battery. If the connection drops while you're using it, SideoutTally looks for the camera once by itself. If the phones still can't find each other (you walked out of range, or locked the camera phone), tap **Reconnect**.
 
 ## Keeping the camera phone awake
 
