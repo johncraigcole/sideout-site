@@ -33,6 +33,8 @@ Sideout uploads each team's games into a folder it makes for that team in your G
 
 Once it's made, you can **rename it, move it inside any other folder (including a folder shared with you, or a shared drive), or share it** with your team in the Google Drive app or website. Sideout keeps uploading to it wherever it is. **Open in Google Drive** jumps to it.
 
+**Game Folder Sharing** (under Open in Google Drive) lists the team's game folders on Google Drive, including games no longer on the phone, and shows which ones **anyone with the link** can open. This happens when the team's folder, or a tournament folder, is shared that way: everything in it is public. Tap a public game and choose **Turn Off Public Link** to make that one game private. People you shared with by name (coaches, family) keep access and aren't emailed, while the folders above and the other games stay as they are. **Share Like the Folder Above Again** undoes it. YouTube videos aren't affected. Only the Google account that owns the team's folder can turn off sharing that comes from the folder above.
+
 Sideout can only reach folders and files it made itself, not the rest of your Drive. That's why it makes its own folder instead of letting you pick one. If you'd like everything inside a folder you already use, move the SideoutCam folder into it.
 
 If your team was set up before this, its old folder shows a note: create the team's new folder, then move it (and, if you like, earlier game folders) inside your old folder in Drive.
