@@ -14,7 +14,7 @@ Tap **★ Highlight** (SideoutTally) or **Highlight** (camera screen) right afte
 - **Clip length**: 10, 15, 20, 30 or 60 seconds before the tap (plus 2 seconds after). Your last choice is remembered.
 - **Team**: which team made the play.
 - **Player**: a player from that team's roster, or the whole team (e.g. "Westview (team)"). If you've set a lineup, the players on court (and liberos) appear as cards: tap the one who made the play. Anyone else, or the whole team, is in the dropdown underneath. Your players are added in [My Teams](02-My-Teams-and-Accounts.md), opponents' in [Teams](03-Teams-and-Opponents.md).
-- **Play**: Kill, Ace, Block, Dig, Pass, Set, Tip, Save or Brilliance.
+- **Play**: Kill, Overpass Kill, Ace, Block, Joust, Dig, Pass, Set, Tip, Save or Great Rally.
 - **Note** (optional): a few words.
 
 Tap **Save**, or **Skip** to keep the clip untagged. The recording keeps going the whole time.
