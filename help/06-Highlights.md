@@ -27,4 +27,6 @@ Highlights upload with the game: to a **Highlights** folder on Google Drive, and
 
 Warm-ups don't have highlights. Practice recordings do.
 
+Missed one during the game? Open the game in **Games**, play the set and tap **Clip** to make a highlight from it afterwards ([After the Game ▸ Games](09-After-the-Game.md#games)).
+
 Tagging your players also lets you make a **player reel**: one player's highlights from a game, a tournament or a season, as one video to keep or share. See [After the Game ▸ Player reels](09-After-the-Game.md#player-reels).

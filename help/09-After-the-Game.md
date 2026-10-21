@@ -9,7 +9,8 @@ title: "After the Game"
 
 Home ▸ **Games** lists every game and practice on the camera phone. Open one to see its sets, warm-up and highlights.
 
-- **Tap a video** to play it full screen.
+- **Tap a video** to play it full screen. **Share** (next to Done, or under a set's video) sends the video you're watching: AirDrop, Messages, **Save Video** to Photos, and so on. Full sets are large, so for Messages a highlight or a clip works better.
+- **Clip a play from a set:** while watching a set or practice recording, tap **Clip**. Choose **Last 10, 15, 20, 30 or 60 seconds** for the play just before where the video is, or **Set Start and End…** to pick the exact start and end (with −1s / +1s to nudge, **Set to Here**, and **Preview**; up to 3 minutes). Then tag it like any highlight (player, play, note) or skip. It's saved as one of the game's highlights (**Share Clip** sends it right away), so it uploads with the game, goes in its next highlight reel and in player reels. This works for sets on an external drive too, while it's plugged in: the clip is saved on the phone.
 - **Filmed for**: which of your teams it belongs to (change it to upload to another team's places).
 - **Tournament**: file it under a tournament, or change or clear it.
 - **Share**: send files to another app, AirDrop, and so on.
