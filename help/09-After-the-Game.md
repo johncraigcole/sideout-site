@@ -19,7 +19,7 @@ Games are also in the Files app: **On My iPhone ▸ SideoutCam ▸ Games**. To p
 
 ## Uploading
 
-Uploads only happen when you tap them. Choose the team's YouTube playlist first; its Drive folder is made for you on the first upload if it doesn't have one yet ([My Teams and Accounts](02-My-Teams-and-Accounts.md#the-teams-drive-folder)).
+Uploads only happen when you tap them. Choose the team's YouTube playlist first (My Teams ▸ the team ▸ YouTube); its Drive folder is made for you on the first upload if it doesn't have one yet ([My Teams and Accounts](02-My-Teams-and-Accounts.md#the-teams-drive-folder)).
 
 ### Google Drive
 
@@ -39,7 +39,7 @@ If you set lineups ([Game Day](04-Game-Day.md)), each set's Drive description li
 
 Tap **Upload to YouTube**. Each set's description includes its score and who played, if you set lineups (highlights don't list who was on court). A set's description also lists its highlights as clickable times (e.g. "2:13 Parker Kill") that jump to that moment in the set. Every video is uploaded **Unlisted**, not made for kids, in the Sports category, and added to the **top** of the team's playlist in order: warm-up (if included), Sets 1–5, then highlights. In YouTube Studio, set the playlist's order to **Manual** so new games stay on top.
 
-**Highlights on YouTube** (My Teams ▸ the team ▸ Uploads) decides how highlights go to YouTube:
+**Highlights on YouTube** (My Teams ▸ the team ▸ YouTube) decides how highlights go to YouTube:
 
 - **One reel per game** (the default): Upload to YouTube first joins the game's highlights into one video, with a 3-second title card before each one: the play (e.g. "Parker Kill"), then the set and the score at that moment ("Set 2 · Westview 12–9 Eastside"), on the team's color and logo. Making it takes a minute or two, with SideoutCam open. The reel's description lists each highlight from 0:00, which YouTube turns into chapters. It goes in the playlist after the sets, and shows in the game as **Highlight reel**, where you can play it. Highlights added later (e.g. after another set) go into a second reel the next time you upload.
 - **Separate videos**: each highlight is its own video (one upload each, as before).

@@ -11,9 +11,11 @@ title: "My Teams and Accounts"
 
 - **Scoreboard team**: its name, colors and logo on the scoreboard (always listed first, e.g. "Westview vs. Eastside").
 - **Roster**: tap it to open the team's players on their own screen (number, first name and an optional **Position**: Left Side, Right Side, Setter, Middle or Libero), for lineups, substitutions and highlight tags. Players listed as Libero come first when you pick a set's liberos (see Game Day ▸ Lineup and substitutions).
-- **Google accounts**: which Drive and YouTube accounts it uploads and streams with.
-- **Drive folder and YouTube playlist**: where its games go. See [The team's Drive folder](#the-teams-drive-folder) below.
-- **Stream keys**: which Facebook and Custom RTMP keys it goes live with.
+- **Google Drive**: which Drive account it uploads with, its Drive folder, Game Folder Sharing and how long public links last. See [The team's Drive folder](#the-teams-drive-folder) below.
+- **YouTube**: which YouTube account it uploads and goes live with, its playlist, and how highlights go to YouTube.
+- **Live Streaming**: which Facebook and Custom RTMP keys it goes live with.
+
+Google Drive, YouTube and Live Streaming each open their own screen from the team's screen, with a line under each saying how it's set up.
 - **Sponsors**: shown on its game recordings and streams.
 - **Tournament**: the tournament its games are currently filed under.
 
@@ -29,11 +31,13 @@ You choose the team you're filming for in **Start Game** (on either phone). On S
 
 ### The team's Drive folder
 
-Sideout uploads each team's games into a folder it makes for that team in your Google Drive, named like **SideoutCam · Westview Jr. Boys**. In My Teams ▸ the team, tap **Create Drive Folder** (or just upload a game: the folder is made then).
+Sideout uploads each team's games into a folder it makes for that team in your Google Drive, named like **SideoutCam · Westview Jr. Boys**. In My Teams ▸ the team ▸ **Google Drive**, tap **Create Drive Folder** (or just upload a game: the folder is made then).
 
 Once it's made, you can **rename it, move it inside any other folder (including a folder shared with you, or a shared drive), or share it** with your team in the Google Drive app or website. Sideout keeps uploading to it wherever it is. **Open in Google Drive** jumps to it.
 
-**Game Folder Sharing** (under Open in Google Drive) lists the team's game folders on Google Drive, including games no longer on the phone, and shows which ones **anyone with the link** can open. This happens when the team's folder, or a tournament folder, is shared that way: everything in it is public. Tap a public game and choose **Turn Off Public Link** to make that one game private. People you shared with by name (coaches, family) keep access and aren't emailed, while the folders above and the other games stay as they are. **Share Like the Folder Above Again** undoes it. YouTube videos aren't affected. Only the Google account that owns the team's folder can turn off sharing that comes from the folder above.
+**Game Folder Sharing** (on the same Google Drive screen) lists the team's game folders on Google Drive, including games no longer on the phone, and shows which ones **anyone with the link** can open. This happens when the team's folder, or a tournament folder, is shared that way: everything in it is public. Tap a public game and choose **Turn Off Public Link** to make that one game private. People you shared with by name (coaches, family) keep access and aren't emailed, while the folders above and the other games stay as they are. **Share Like the Folder Above Again** undoes it. YouTube videos aren't affected. Only the Google account that owns the team's folder can turn off sharing that comes from the folder above.
+
+**Public link lasts** (just under Game Folder Sharing) does this for you: choose **Never Expires**, **7**, **14**, **30**, **60** or **90 Days**, or **Custom…** for any number of days. It's counted from when the game was first uploaded to Google Drive. Once a public game is older than that, SideoutCam turns off its public link, just like Turn Off Public Link. Your phone decides when apps may run, so SideoutCam checks when you open it and now and then in the background: a game may stay public a little longer than the limit, never less. In Game Folder Sharing, each public game shows when it goes private. Tap one and choose **Keep Public (Don't Expire)** to leave it public, and see what was turned off under **Turned Off Automatically** (with **Check Now**).
 
 Sideout can only reach folders and files it made itself, not the rest of your Drive. That's why it makes its own folder instead of letting you pick one. If you'd like everything inside a folder you already use, move the SideoutCam folder into it.
 
@@ -50,7 +54,7 @@ Home ▸ **Accounts** holds everything Sideout signs in or connects with. Your t
 Google treats Drive and YouTube as separate sign-ins, so each has its own row.
 
 - **Sign In to Google Drive** / **Sign In to YouTube**: sign in with Google. For YouTube, use the account that manages the channel. If the channel is a Brand Account, pick it when Google asks.
-- **Add Another … Account**: for a team that uses a different Google account or channel (e.g. the club's YouTube channel). Then pick it in My Teams ▸ the team ▸ **Google Accounts**.
+- **Add Another … Account**: for a team that uses a different Google account or channel (e.g. the club's YouTube channel). Then pick it in My Teams ▸ the team ▸ **Google Drive** or **YouTube**.
 - Each account shows which teams use it. **Remove** signs out of an added account; teams that used it go back to your first account.
 
 Changing a team's account clears its folder or playlist (they belong to the old account): a new folder is made in the new account, and you choose a new playlist.
