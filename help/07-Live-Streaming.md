@@ -24,7 +24,19 @@ Home ▸ **Live Streaming** shows each team's setup (use **Team** at the top to 
 1. In **Accounts**, sign in to YouTube with the account that manages the channel.
 2. The channel must be enabled for live streaming. The first time, YouTube can take up to 24 hours to approve it (YouTube Studio ▸ Create ▸ Go live).
 
-That's all. When you go live, Sideout creates the broadcast for you (Unlisted, Sports category, titled like "20261004 Westview vs. Eastside") and gives you a link to share. No stream key needed.
+That's all. When you go live, Sideout creates the broadcast for you (Sports category, titled like "20261004 Westview vs. Eastside") and gives you a link to share. No stream key needed.
+
+### Who can watch (visibility)
+
+Each team has a **Live stream visibility** (My Teams ▸ the team ▸ **YouTube**):
+
+- **Unlisted** (the default): anyone with the link can watch. It isn't in search or on your channel page.
+- **Public**: anyone can watch, and it shows on your channel and in YouTube search. Subscribers may be notified, and it stays on the channel afterwards. Think about players' privacy before choosing this.
+- **Private**: only people you invite in YouTube Studio. Viewers need a Google account and an invitation, so it rarely suits a game.
+
+The Go Live button shows the visibility, e.g. **Go Live · YouTube · Unlisted**. Tap it to go live with the team's visibility, or **hold** it to pick another for this stream. While live, **Visibility** under the stream (on either phone) changes it, and viewers keep the same link. Making it Public asks first. After the stream ends, change it in YouTube Studio.
+
+YouTube can keep a stream private for apps it hasn't approved yet; if it does, Sideout tells you.
 
 An optional **YouTube backup key** (YouTube Studio ▸ Create ▸ Go live ▸ Stream) is only used if creating the broadcast fails.
 
@@ -55,7 +67,7 @@ Add a **Custom RTMP** stream key with the service's **server address** (e.g. `rt
 
 Tap **Go Live** on the camera screen. If the team has more than one destination set up, **Go Live…** lets you pick YouTube, Facebook or Custom.
 
-In SideoutTally it works the same way: with one destination set up, **Go Live** shows which one and goes live there. With more than one, **Go Live…** opens a list (YouTube, Facebook, Custom RTMP) with a tick on the one you used last; tap where to go live. (An older SideoutCam on the camera phone always uses the destination you last went live with.)
+In SideoutTally it works the same way: with one destination set up, **Go Live** shows which one (and, for YouTube, its visibility; hold to pick another) and goes live there. With more than one, **Go Live…** opens a list (YouTube, Facebook, Custom RTMP) with a tick on the one you used last; tap where to go live. (An older SideoutCam on the camera phone always uses the destination you last went live with.)
 
 - **Between sets**, the stream stays up and shows a card: "Starting soon", "Waiting for Set 2 to start", or "Final". These cards are only on the stream, never in your recordings.
 - **When you pause**, viewers see "Stream paused momentarily" with the game and the reason (e.g. "Westview timeout") or your message.
