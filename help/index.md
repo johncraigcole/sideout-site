@@ -12,6 +12,8 @@ Sideout is two iPhone apps that work together to film volleyball games:
 
 You can use SideoutCam on its own, but the two together are the way it's meant to be used: set the camera up once, then run everything from your seat.
 
+**Testing Sideout?** Start with [For Testers](13-For-Testers.md): installing with TestFlight, what to try and how to send feedback.
+
 ## Guides
 
 1. [Getting Started](01-Getting-Started.md): what you need, first launch, and connecting the two phones
@@ -26,6 +28,7 @@ You can use SideoutCam on its own, but the two together are the way it's meant t
 10. [Sponsors](10-Sponsors.md)
 11. [Troubleshooting](11-Troubleshooting.md)
 12. [Keeping the Camera Phone Cool](12-Keeping-the-Phone-Cool.md): heat, charging, streaming and 30 vs. 60 fps
+13. [For Testers](13-For-Testers.md): installing test versions with TestFlight, and sending feedback
 
 ## A typical game
 

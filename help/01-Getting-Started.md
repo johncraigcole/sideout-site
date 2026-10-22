@@ -19,7 +19,7 @@ Open **SideoutCam**. When asked, allow:
 - **Camera**: to record.
 - **Microphone**: for game sound. Without it, videos are silent.
 - **Local Network**: so SideoutTally can find the camera.
-- **Photos** (optional): only if you want copies of recordings in your photo library.
+- **Photos** (later, optional): asked only the first time you share a video and choose **Save Video**.
 
 Then set up your team:
 
