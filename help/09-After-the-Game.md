@@ -18,6 +18,24 @@ Home ▸ **Games** lists every game and practice on the camera phone. Open one t
 
 Games are also in the Files app: **On My iPhone ▸ SideoutCam ▸ Games**. To put a video in Photos, share it and choose **Save Video**.
 
+## Correcting a misspelled name
+
+Spelled a player's name wrong and uploaded games with it? Fix the name in the roster (My Teams ▸ the team ▸ Roster) for future games. For what's already uploaded, use My Teams ▸ the team ▸ **Correct a Player's Name…**:
+
+1. Type each **wrong spelling** and the **correct** one. Names are matched as whole words with the same capitals, so "Kim" never changes "Kimberly".
+2. Tap **Scan Google Drive and YouTube**. It reads the team's YouTube playlist and the team's Drive folder, and lists every video and file with the old spelling. Nothing changes yet.
+3. Tap **Fix**. YouTube titles, descriptions and tags, and Drive file names, descriptions, Game Summaries and game records are corrected in place. Links stay the same, and nothing is uploaded again.
+
+Highlight reels have player names on their **title cards, inside the video**, so the scan lists them separately: fixing corrects their titles and chapters, but not the cards. To correct the cards, use **Highlight Reel Title Cards** on the same screen:
+
+1. **Find Reels to Correct** lists the reels in the team's playlist whose chapters name these players.
+2. **Correct This Reel** (or **Correct All**) downloads the reel's clips from Google Drive, draws the title cards again with the corrected names (same set, score and team colors), and uploads the new reel to YouTube as **Private**. Nothing changes for viewers yet. Tap **Watch** to check it.
+3. **Publish This Reel** (or **Publish All**) swaps it in: each corrected reel becomes Unlisted and takes the old reel's place in the playlist, the old reel is made **Private** (kept, not deleted), the reel on Google Drive is replaced (same link), and the Game Summary links to the new reel. The old reel's link stops working for viewers.
+
+Doing one reel first, watching it and publishing it is a good way to start. Each corrected reel is a new YouTube upload, so a season's reels may take a few days with YouTube's daily upload limit. Progress is kept: tap Correct again the next day. The games on your phone aren't changed. If you upload one of them again, its Game Summary on Drive goes back to the phone's spelling.
+
+YouTube limits how many changes an app makes per day. If the limit is reached, scan again the next day to finish.
+
 ## Uploading
 
 Uploads only happen when you tap them. Choose the team's YouTube playlist first (My Teams ▸ the team ▸ YouTube); its Drive folder is made for you on the first upload if it doesn't have one yet ([My Teams and Accounts](02-My-Teams-and-Accounts.md#the-teams-drive-folder)).

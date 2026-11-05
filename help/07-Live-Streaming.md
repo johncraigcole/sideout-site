@@ -71,6 +71,7 @@ In SideoutTally it works the same way: with one destination set up, **Go Live** 
 
 - **Between sets**, the stream stays up and shows a card: "Starting soon", "Waiting for Set 2 to start", or "Final". These cards are only on the stream, never in your recordings.
 - **When you pause**, viewers see "Stream paused momentarily" with the game and the reason (e.g. "Westview timeout") or your message.
+- **No sound while waiting:** viewers hear nothing while a card is showing (including when you pause) or while a warm-up is on, so music in the gym at those times can't get your stream blocked for copyright. "Starting soon", "Waiting for Set 2 to start" and "Stream paused momentarily" tell viewers when sound will start or return. Sound comes back when a set starts or you resume. Your recordings keep their sound, and music during play still goes out on the stream.
 - **Share link** (YouTube) gives you the link to send to family and friends, on either phone.
 - **End Stream** finishes the broadcast. Recording isn't affected.
 
