@@ -21,8 +21,13 @@ Home ▸ **Live Streaming** shows each team's setup (use **Team** at the top to 
 
 ### YouTube
 
-1. In **Accounts**, sign in to YouTube with the account that manages the channel.
-2. The channel must be enabled for live streaming. The first time, YouTube can take up to 24 hours to approve it (YouTube Studio ▸ Create ▸ Go live).
+1. **Turn on live streaming for the channel, at least a day before the game.** This step is easy to miss. In **YouTube Studio** (studio.youtube.com, signed in as the channel), click **Create ▸ Go live**.
+   - The first time, YouTube starts a **24-hour wait** at this point. The wait only begins once you do this. Turning on live streaming in the channel's settings or verifying the account isn't enough.
+   - Until the 24 hours are up, Go Live in SideoutCam fails with "(liveStreamingNotEnabled, HTTP 403)". A stream key from that channel won't work either.
+   - Once the wait is over, Studio opens its live control room. You can close it: SideoutCam doesn't need it.
+   - Do this for **each channel** you stream to. A channel that has streamed before is already set up.
+2. In **Accounts**, sign in to YouTube with the account that manages the channel. If your Google account has several channels, pick this one when Google asks you to **choose an account or brand account**. The sign-in belongs to that one channel. For a second channel, use **Add Another** and pick that channel.
+3. In **My Teams ▸ the team ▸ YouTube**, choose that YouTube account for the team.
 
 That's all. When you go live, Sideout creates the broadcast for you (Sports category, titled like "20261004 Westview vs. Eastside") and gives you a link to share. No stream key needed.
 

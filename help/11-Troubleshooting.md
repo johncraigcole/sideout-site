@@ -30,6 +30,13 @@ SideoutCam needs microphone access: Settings ▸ Privacy & Security ▸ Micropho
 
 No destination is set up for the team you're filming for. Tap Go Live for a hint, then sign in to YouTube or add a stream key in **Accounts**, and pick it for the team in **My Teams** ([Live Streaming](07-Live-Streaming.md)).
 
+## Go Live on YouTube fails with "HTTP 403"
+
+Check the reason in brackets at the end of the message:
+
+- **liveStreamingNotEnabled:** the channel isn't ready to stream yet. In YouTube Studio, signed in as the channel, click **Create ▸ Go live**. The first time, YouTube then takes up to 24 hours to turn on live streaming. The wait only starts at that step, even if live streaming already shows as turned on in the channel's settings. Try again once the wait is over ([Live Streaming](07-Live-Streaming.md)).
+- **insufficientLivePermissions**, or any 403 on only one of several channels: the YouTube sign-in may belong to a different channel. In **Accounts**, check the channel name under the YouTube sign-in that the team uses. To use another channel, tap **Add Another**, pick that channel at Google's "choose an account or brand account" step, then choose it in **My Teams ▸ the team ▸ YouTube**.
+
 ## "Your YouTube sign-in expired" or "Your Google Drive sign-in expired"
 
 Google sometimes asks you to sign in again, for example after you change your Google password or remove Sideout's access in your Google account. Go to **Accounts** and sign in again. Uploads continue where they left off.

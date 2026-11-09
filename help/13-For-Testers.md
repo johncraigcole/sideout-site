@@ -34,6 +34,8 @@ A practice or a scrimmage is a good first try: there's no pressure, and you can 
 
 Uploading to Google Drive and YouTube, and going live on YouTube through your account, need a Google sign-in, which is still in testing with Google. If you'd like to try it, **send the email address of your Google account** to the address below and we'll add it. Google asks testers to sign in again about once a week.
 
+Going live on YouTube needs one more step, at least a day before the game: in YouTube Studio, click **Create ▸ Go live** once for the channel. YouTube then takes up to 24 hours to turn on live streaming ([Live Streaming](07-Live-Streaming.md)).
+
 Everything else works without signing in to anything: recording with the scoreboard, highlights, the remote, sponsors, player reels, and sharing videos by AirDrop or Messages. Streaming to Facebook or another service with a stream key doesn't need Google either.
 
 ## What to try
