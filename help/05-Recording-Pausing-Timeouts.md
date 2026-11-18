@@ -35,4 +35,13 @@ In a practice recording, Pause doesn't ask (unless you're streaming live).
 
 ## Storage
 
-Video takes space: about 4.5 GB per hour at 1080p 60 fps (Standard bitrate). Start Game shows an estimate for your settings. After the game, upload and then delete games, or move them to an external drive ([After the Game](09-After-the-Game.md)).
+Video takes space: about 4.5 GB per hour at 1080p 60 fps (Standard bitrate, High Efficiency), or 6.7 GB with Most Compatible. Start Game shows an estimate for your settings.
+
+## Video format
+
+Start Game ▸ **Video** ▸ **Video format** (on either phone) picks how new recordings are saved, with the same names as the iPhone's Camera settings:
+
+- **High Efficiency (HEVC)**, the default: smaller files, and plays on Apple devices and YouTube. Google Drive often can't play it in a web browser: viewers see "There was a problem playing this video" and have to download it.
+- **Most Compatible (H.264)**: plays everywhere, including **Google Drive in a web browser** (Safari or Chrome, on a phone or a computer). Files are about 1.5 times larger. Choose it if people watch your games on Google Drive.
+
+Highlights are cut from the set in its own format. Highlight reels and player reels are made in the format chosen when they're made. 4K at 60 fps always uses High Efficiency. Videos you've already recorded or uploaded keep their format. After the game, upload and then delete games, or move them to an external drive ([After the Game](09-After-the-Game.md)).

@@ -24,7 +24,7 @@ While you're live, the camera phone makes **two videos at the same time**:
 | | The recording | The stream |
 |---|---|---|
 | Kept where | On the phone, as each set's video | Sent live to viewers |
-| Quality | Game Setup ▸ Video (e.g. 1080p, 60 fps) | Live Streaming ▸ Quality (720p or 1080p), always 30 fps |
+| Quality | Game Setup ▸ Video (e.g. 1080p, 60 fps, High Efficiency) | Live Streaming ▸ Quality (720p or 1080p), always 30 fps |
 | Made how | Every camera picture gets the scoreboard and is saved | A copy of each picture is shrunk to the stream size and compressed again |
 
 The camera captures once, at the **recording** quality, and the stream is made from that. So choosing a 720p stream only makes the second video smaller: the phone still does the full recording work as well. That's also why the two can't simply share one video. The recording is kept at high quality, while the stream is compressed much harder, changes with your signal, and shows cards ("Waiting for Set 2", "Stream paused") that never go into your recording.
